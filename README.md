@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there 👋 
+</br>
+- 🌱 I’m currently learning git and ansible ...
 <!--
 **rinatkireyev/rinatkireyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
